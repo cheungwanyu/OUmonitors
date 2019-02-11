@@ -1,0 +1,10 @@
+[10-Feb-2019 11:45:37 UTC] PHP Fatal error:  Uncaught Error: Class 'User' not found in /home/i5cq960atca4/public_html/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/i5cq960atca4/public_html/index.php on line 3
+[10-Feb-2019 12:38:55 UTC] PHP Warning:  include(/home/i5cq960atca4/public_html/layout/head.php): failed to open stream: No such file or directory in /home/i5cq960atca4/public_html/index.php on line 9
+[10-Feb-2019 12:38:55 UTC] PHP Warning:  include(): Failed opening '/home/i5cq960atca4/public_html/layout/head.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/i5cq960atca4/public_html/index.php on line 9
+[10-Feb-2019 12:38:55 UTC] PHP Warning:  include(/home/i5cq960atca4/public_html/layout/head.php): failed to open stream: No such file or directory in /home/i5cq960atca4/public_html/index.php on line 9
+[10-Feb-2019 12:38:55 UTC] PHP Warning:  include(): Failed opening '/home/i5cq960atca4/public_html/layout/head.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/i5cq960atca4/public_html/index.php on line 9
+[10-Feb-2019 12:38:56 UTC] PHP Warning:  include(/home/i5cq960atca4/public_html/layout/head.php): failed to open stream: No such file or directory in /home/i5cq960atca4/public_html/index.php on line 9
+[10-Feb-2019 12:38:56 UTC] PHP Warning:  include(): Failed opening '/home/i5cq960atca4/public_html/layout/head.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/i5cq960atca4/public_html/index.php on line 9
